@@ -9,8 +9,13 @@ require 'xcodeproj/scheme/archive_action'
 
 require 'xcodeproj/scheme/buildable_product_runnable'
 require 'xcodeproj/scheme/buildable_reference'
+<<<<<<< HEAD
 require 'xcodeproj/scheme/location_scenario_reference'
 require 'xcodeproj/scheme/execution_action'
+||||||| parent of 710fd54... Create ExecutionAction and ActionContext node wrappers
+=======
+require 'xcodeproj/scheme/execution_action'
+>>>>>>> 710fd54... Create ExecutionAction and ActionContext node wrappers
 require 'xcodeproj/scheme/macro_expansion'
 require 'xcodeproj/scheme/remote_runnable'
 require 'xcodeproj/scheme/send_email_action_content'
